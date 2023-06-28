@@ -61,7 +61,8 @@
   }
 
   body {
-    background: #d6eaf8;
+    height: 1100px;
+background: linear-gradient(to top left, powderblue, pink);
   }
   .btn {
     text-decoration: none;
